@@ -24,10 +24,10 @@
 <a href = "mailto: brujnovelli@gmail.com">
     <img width="30" src="gmail.svg">
   </a>
-  <a href = "https://https://www.linkedin.com/in/bruna-jesus-b81820230/">
+  <a href = <"https://https://www.linkedin.com/in/bruna-jesus-b81820230/">
     <img width="25" src="linkedin.svg">
   </a>
-  <a href = "https://www.instagram.com/whssb789/">
+  <a href = <"https://https://www.instagram.com/whsbsb789/">
     <img width="25" src="instagram.png">
   </a>
 
