@@ -21,17 +21,21 @@
    </div>
 
  <h1 align="center">Redes Sociais</h1>
-
-<a href="https://www.instagram.com/whsbsb789//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-
+<div align="center"> 
+<a href="https://https://www.instagram.com/whsbsb789//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://https://www.linkedin.com/in/bruna-jesus-b81820230//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href = "mailto:brujnovelli@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-BFC9CA?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bruna-jesus-b81820230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
+
+
+
  </div>
 <br>
 <br>
 
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=brujnovelli&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brujnovelli&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
