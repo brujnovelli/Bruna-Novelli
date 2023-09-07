@@ -24,9 +24,6 @@
   <a href = "https://https://www.linkedin.com/in/bruna-jesus-b81820230/">
     <img width="25" src="linkedin.svg">
   </a>
-  <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-    <img width="35" src="youtube.svg">
-  </a>
   <a href = "https://www.instagram.com/whssb789/">
     <img width="25" src="instagram.png">
   </a>
